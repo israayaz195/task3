@@ -1,0 +1,47 @@
+.home{
+    height: 100vh;
+    background-image: url(images/oll.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img{
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.h2{
+    text-align: center;
+    background-color: burlywood;
+    font-weight: 600;
+    font-style: italic;
+}
+.p{
+    text-align: center;
+    background-color: burlywood;
+    font-weight: 400;
+    font-style: italic;
+}
+.burger{
+    border-style:dotted ;
+    border-width: 5px;
+    border-color: darksalmon;
+    height: 300px;
+    background-color: burlywood;
+}
+.pizza{
+    border-style:dotted ;
+    border-width: 5px;
+    border-color: darksalmon;
+    height: 300px;
+    background-color: burlywood;
+}
+.hotdog{
+    border-style:dotted ;
+    border-width: 5px;
+    border-color: darksalmon;
+    height: 300px;
+    background-color: burlywood;
+}
